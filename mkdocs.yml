@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: Unit testing
 theme:
   name: material
   font:
@@ -49,4 +49,4 @@ markdown_extensions:
 #     - icon: simple/linkedin
 #       link: https://linkedin.com/in/willettjames
 
-copyright: Copyright &copy; 2024 James Willett
+copyright: Copyright &copy; 2026 MLB Associates, LLC
